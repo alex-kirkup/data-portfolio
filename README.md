@@ -6,9 +6,14 @@
    - Web scraping 
      * Blog post: [Web scraping 2023 data science jobs listings to extract the key skills required](https://medium.com/@alex.kirkup/web-scraping-2023-data-science-jobs-listings-to-extract-the-key-skills-required-2359bfab176e)
    - EDA
-2. Machine learning
+     * Blog post: [Seaborn doesn’t like dates: using date ordinals instead](https://medium.com/@alex.kirkup/seaborn-doesnt-like-dates-using-date-ordinals-instead-36f7ad4900d9)
+   - ETL
+     * Blog post: [Clean a Kaggle dataset with Pandas and insert into a Django database](https://medium.com/@alex.kirkup/clean-a-kaggle-dataset-with-pandas-and-insert-into-a-django-database-using-python-3e2ecbcbdc7f)
+2. Databases 
+   - 
+3. Machine learning
    - Supervised
    - Unsupervised
-3. Deep learning
-4. NLP
-5. MLOps
+4. Deep learning
+5. NLP
+6. MLOps
