@@ -1,16 +1,14 @@
 # Alex Kirkup - Data portfolio
 
-This repository holds my data science portfolio projects.
+### This repository holds my data science portfolio and links to my blog posts.
 
-1. Python
-   - Pandas
-2. Maths
-3. SQL
-4. Statistics
-5. Data analysis & visualisation
-6. Machine learning
+1. Data analysis & visualisation
+   - Web scraping 
+     * Blog post: [Web scraping 2023 data science jobs listings to extract the key skills required](https://medium.com/@alex.kirkup/web-scraping-2023-data-science-jobs-listings-to-extract-the-key-skills-required-2359bfab176e)
+   - EDA
+2. Machine learning
    - Supervised
    - Unsupervised
-7. Deep learning
-8. NLP
-9. MLOps
+3. Deep learning
+4. NLP
+5. MLOps
