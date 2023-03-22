@@ -9,11 +9,16 @@
      * Blog post: [Seaborn doesn’t like dates: using date ordinals instead](https://medium.com/@alex.kirkup/seaborn-doesnt-like-dates-using-date-ordinals-instead-36f7ad4900d9)
    - ETL
      * Blog post: [Clean a Kaggle dataset with Pandas and insert into a Django database](https://medium.com/@alex.kirkup/clean-a-kaggle-dataset-with-pandas-and-insert-into-a-django-database-using-python-3e2ecbcbdc7f)
-2. Databases 
+
+2. Django and SQL 
    - 
+
 3. Machine learning
    - Supervised
    - Unsupervised
+
 4. Deep learning
+
 5. NLP
+
 6. MLOps
