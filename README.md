@@ -1,9 +1,12 @@
 # Alex Kirkup - Data portfolio
 
-### This repository holds my data science portfolio and links to my blog posts.
+This repository holds my data science portfolio and links to my blog posts.
+
+## Contact
 
 You can contact me via [LinkedIn](https://www.linkedin.com/in/alex-kirkup/)
 
+## Contents
 
 1. Data analysis & visualisation
    - Web scraping 
