@@ -1,4 +1,4 @@
-# Alex Kirkup - Data portfolio
+# Alex Kirkup - Data science portfolio
 
 This repository holds my data science portfolio and links to my blog posts.
 
