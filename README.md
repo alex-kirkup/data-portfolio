@@ -9,7 +9,7 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/alex-kirkup/)
 ## Contents
 
 1. Data analysis & visualisation
-   - Web scraping 
+   - Data collection
      * Medium post: [Web scraping 2023 data science jobs listings to extract the key skills required](https://medium.com/@alex.kirkup/web-scraping-2023-data-science-jobs-listings-to-extract-the-key-skills-required-2359bfab176e)
    - EDA
      * Project: [Kaggle: Emergency 911 call EDA using Pandas, Seaborn, Folium](https://www.kaggle.com/alexkirkup/emergency-911-call-eda)
